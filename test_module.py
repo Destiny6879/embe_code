@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[60]:
-
-
 import numpy as np
  
 def calculate():
@@ -63,10 +57,3 @@ def calculate():
     })
 
 print(calculate())
-
-
-# In[ ]:
-
-
-
-
